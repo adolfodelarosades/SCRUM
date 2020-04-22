@@ -31,17 +31,25 @@ Pedro Vila Escude
 
 ## Módulo 1. Introducción y contexto.
 
+En este primer módulo vamos a establecer el contexto y contarte un poco de historia de donde vienen las metodologías ágiles, para que tengas la información necesaria para comenzar. La idea es repasar los porqués y los beneficios que aporta. 
+
 ### ¿Qué es Conecta Empleo?
+
+¿Te gustaría seguir formándote, de manera gratuita, en las tecnologías con más demanda laboral?
+Fundación Telefónica ha lanzado el programa Conecta Empleo para formar y preparar a profesionales digitales a través de diferentes cursos gratuitos.
+¿Te interesa? ¡Pues no lo pienses dos veces! 
+
+Cuéntanos sobre ti en el [siguiente enlace](https://www.fundaciontelefonica.com/cursos-mooc-de-empleo-digital/) y te enviaremos noticias y novedades desde el proyecto Conecta Empleo de Fundación Telefónica.
 
 Fundación Telefónica ha lanzado el programa Conecta Empleo para formar y preparar a profesionales digitales a través de diferentes cursos gratuitos.
 
-[MOOC Conecta Empleo](https://www.fundaciontelefonica.com/cursos-mooc-de-empleo-digital/)
+[Video](https://www.youtube.com/watch?v=7FlVFPGwlLQ&feature=emb_logo)
 
 ### Historia pasada
 
 La revolución industrial supuso un cambio en la sociedad, en los negocios y, por tanto, en la manera de concebir las empresas. La aparición de la imprenta, el motor de vapor y otros inventos propiciados de esta era hizo que las estructuras sociales y organizacionales cambiaran. En el siguiente vídeo te contamos cómo los constanates cambios que hemos sufrido a lo largo de la historia, nos han hecho adoptar nuevos enfoques para enfrentarnos a la nueva realidad.
 
-[Video](https://player.vimeo.com/video/183279355)
+[https://i.vimeocdn.com/video/592478508.webp?mw=700&mh=394](https://player.vimeo.com/video/183279355)
 
 ### Asociación con Lean
 
@@ -86,6 +94,16 @@ En esta sección podrás escuchar a diferentes personas y expertos sus opiniones
 [Video](https://player.vimeo.com/video/183279369)
 
 ### Entrevistas
+
+A continuación, puedes ver una pequeña entrevista, que responde a las siguientes preguntas:
+
+* ¿Por qué piensas que es interesante aplicar Agile?
+* ¿Qué te aporta aplicar Agile?
+ 
+Recuerda aportar tus impresiones también en Twitter con los siguientes Hashtags: #MetodologiasAgilesCE #ConectaEmpleo
+
+[Video](https://player.vimeo.com/video/183279371)
+
 ### M1. Test teórico
 
 [Descargar documento: MOOC_Metodologias_Agiles_M1.pdf](https://miriadax.net/documents/106951425/106966264/MOOC_Metodologias_Agiles_M1.pdf/de3c8fdd-a9fb-4ed1-8ed9-317ffe700af5?version=1.0)
