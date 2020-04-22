@@ -49,9 +49,9 @@ Fundación Telefónica ha lanzado el programa Conecta Empleo para formar y prepa
 
 La revolución industrial supuso un cambio en la sociedad, en los negocios y, por tanto, en la manera de concebir las empresas. La aparición de la imprenta, el motor de vapor y otros inventos propiciados de esta era hizo que las estructuras sociales y organizacionales cambiaran. En el siguiente vídeo te contamos cómo los constanates cambios que hemos sufrido a lo largo de la historia, nos han hecho adoptar nuevos enfoques para enfrentarnos a la nueva realidad.
 
-![Historia pasada](/ruta/a/la/imagen.jpg "Historia pasada")
+![Historia pasada](https://i.vimeocdn.com/video/592478508.webp?mw=700&mh=394 "Historia pasada")
 
-[![Historia pasada](/ruta/a/la/imagen.jpg "Historia pasada")](https://player.vimeo.com/video/183279355)
+[![Historia pasada](https://i.vimeocdn.com/video/592478508.webp?mw=700&mh=394 "Historia pasada")](https://player.vimeo.com/video/183279355)
 
 
 
