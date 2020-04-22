@@ -66,11 +66,29 @@ Este concepto hace referencia al Tiempo que vamos a tardar en realizar el proyec
 El cono de incertidumbre describe la de la medida de incertidumbre de un proyecto. Nos dice que al inicio de un proyecto tenemos mayor probabilidad de confundirnos en nuestras estimaciones ya que es la fase inicial cuando menos información y conocimiento tenemos sobre la resolución del problema.
 
 [Video](https://player.vimeo.com/video/183279362)
+
 ### Explicación iterativo incremental
+
+Uno de los pilares en torno a las metodologías ágiles es que promueven el desarrollo de proyectos de forma iterativa e incremental. Este enfoque es diferente al de otros enfoques o metodologías como, por ejemplo, el enfoque en cascada donde se divide el proyecto en fases para acabar construyendo el proyecto al final.
+
+[Video](https://player.vimeo.com/video/183279364)
+
 ### ¿Por qué Agile?
+
+En esta pequeña entrevista, Roberto Canales, Director General de Autentia nos cuenta su opinión acerca de Agile y las metodologías ágiles, para que las utilizan ellos y sus clientes, que es lo que nos aportan y si tienen futuro o no. Como podréis descubrir después de ver el video parece que las metodologías ágiles no son más que una moda pasajera, sino que han venido para quedarse.
+
+[Video](https://player.vimeo.com/video/183279368)
+
 ### Comentarios experto
+
+En esta sección podrás escuchar a diferentes personas y expertos sus opiniones sobre que les aporta y por qué utilizan estos enfoques en sus proyectos.
+
+[Video](https://player.vimeo.com/video/183279369)
+
 ### Entrevistas
 ### M1. Test teórico
+
+[Descargar documento: MOOC_Metodologias_Agiles_M1.pdf](https://miriadax.net/documents/106951425/106966264/MOOC_Metodologias_Agiles_M1.pdf/de3c8fdd-a9fb-4ed1-8ed9-317ffe700af5?version=1.0)
 
 	
 ## Módulo 2. Manifiesto Ágil
