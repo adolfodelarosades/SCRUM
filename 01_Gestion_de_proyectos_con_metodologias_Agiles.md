@@ -106,6 +106,43 @@ Recuerda aportar tus impresiones también en Twitter con los siguientes Hashtags
 
 ### M1. Test teórico
 
+**¿Cuál fue el mayor aporte del Taylorismo a los modelos de trabajo?**
+
+* Dividir a los trabajadores entre pensadores y ejecutores.
+* Reducción de los costes de mantenimiento.
+* Las huelgas.
+* La aparición de sindicatos.
+
+**Los principios Lean son:**
+
+* Respeto por las personas y entrega continua.
+* Minimización de desperdicio, aumento de la eficiencia en los procesos y respeto por las personas.
+* Entrega de valor continuo, minimización de desperdicio y la mejora continua.
+* Maximización de la entrega de valor y minimización de desperdicios.
+
+**Si hablamos del triángulo de hierro como el tiempo, coste y alcance de un proyecto, ¿cuáles de estas dos variables se fijan en las metodologías ágiles?**
+
+* Coste y alcance.
+* Alcance y tiempo.
+* Tiempo y coste.
+* Coste, alcance y tiempo.
+
+**¿Por qué son importantes las metodologías ágiles?**
+
+* Porque permiten mejorar la velocidad de los proyectos.
+* Porque mejoran la adaptación a los cambios.
+* Porque mejoran la flexibilidad de las personas.
+* Porque permiten conseguir mayor autonomía en los equipos.
+
+**¿Cómo gestionan las metodologías ágiles la incertidumbre?**
+
+* Planificando lo máximo posible al inicio.
+* Intentando predecir los posibles problemas que se darán al inicio del proyecto.
+* No realizan ninguna gestión concreta.
+* Tratando de comenzar el proyecto lo antes posible para ir viendo los problemas encontrados.
+
+### Documentación
+
 [Descargar documento: MOOC_Metodologias_Agiles_M1.pdf](https://miriadax.net/documents/106951425/106966264/MOOC_Metodologias_Agiles_M1.pdf/de3c8fdd-a9fb-4ed1-8ed9-317ffe700af5?version=1.0)
 
 	
