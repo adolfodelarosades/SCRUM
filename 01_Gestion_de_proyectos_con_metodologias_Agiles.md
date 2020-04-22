@@ -32,11 +32,40 @@ Pedro Vila Escude
 ## Módulo 1. Introducción y contexto.
 
 ### ¿Qué es Conecta Empleo?
+
+Fundación Telefónica ha lanzado el programa Conecta Empleo para formar y preparar a profesionales digitales a través de diferentes cursos gratuitos.
+
+[MOOC Conecta Empleo](https://www.fundaciontelefonica.com/cursos-mooc-de-empleo-digital/)
+
 ### Historia pasada
+
+La revolución industrial supuso un cambio en la sociedad, en los negocios y, por tanto, en la manera de concebir las empresas. La aparición de la imprenta, el motor de vapor y otros inventos propiciados de esta era hizo que las estructuras sociales y organizacionales cambiaran. En el siguiente vídeo te contamos cómo los constanates cambios que hemos sufrido a lo largo de la historia, nos han hecho adoptar nuevos enfoques para enfrentarnos a la nueva realidad.
+
+[Video](https://player.vimeo.com/video/183279355)
+
 ### Asociación con Lean
+
+Lean (sin grasa sería su traducción al español) es un término que se popularizó en la época de los 40 cuando se pretendía aligerar los procesos principalmente en la industria manufacturera. Toyota fue su principal impulsor creando incluso su propio proceso y cultura llamado Toyota Production System (TPS). Los conceptos surgidos desde la industria automovilística se extrapolaron posteriormente al mundo del software dando lugar al concepto de Lean IT y poco a poco se han ido aplicando a otros modelos de negocio. En el siguiente vídeo te contamos más sobre ello:
+
+[Video](https://player.vimeo.com/video/183279356)
+
 ### Ciclo de Deming
+
+Edward Deming era un estadista norteamericano que tras la segunda guerra mundial (todos sabemos cómo acabó esta guerra, con Japón derrotada por los americanos con dos bombas atómicas) empezó a divulgar por allí conceptos relacionados con la mejora de los procesos y el aumento de la calidad. Aquí te explicamos más sobre este concepto y su fundador:
+
+[Video](https://player.vimeo.com/video/183279357)
+
 ### Triángulo de hierro
+
+Este concepto hace referencia al Tiempo que vamos a tardar en realizar el proyecto, Alcance como el conjunto de requerimientos a cubrir y el Coste como el dinero que deberemos invertir. Está directamente relacionado con las personas y recursos materiales que participen en el proyecto.
+
+[Video](https://player.vimeo.com/video/183279359)
+
 ### Cono de la incertidumbre
+
+El cono de incertidumbre describe la de la medida de incertidumbre de un proyecto. Nos dice que al inicio de un proyecto tenemos mayor probabilidad de confundirnos en nuestras estimaciones ya que es la fase inicial cuando menos información y conocimiento tenemos sobre la resolución del problema.
+
+[Video](https://player.vimeo.com/video/183279362)
 ### Explicación iterativo incremental
 ### ¿Por qué Agile?
 ### Comentarios experto
