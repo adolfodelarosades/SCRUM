@@ -91,7 +91,7 @@ En esta pequeña entrevista, Roberto Canales, Director General de Autentia nos c
 
 En esta sección podrás escuchar a diferentes personas y expertos sus opiniones sobre que les aporta y por qué utilizan estos enfoques en sus proyectos.
 
-[![Comentarios experto]( "Comentarios experto")](https://player.vimeo.com/video/183279369)
+[![Comentarios experto](https://i.vimeocdn.com/video/592479482.webp?mw=700&mh=394 "Comentarios experto")](https://player.vimeo.com/video/183279369)
 
 ### Entrevistas
 
