@@ -144,9 +144,39 @@ Recuerda aportar tus impresiones también en Twitter con los siguientes Hashtags
 ### Documentación
 
 [Descargar documento: MOOC_Metodologias_Agiles_M1.pdf](https://miriadax.net/documents/106951425/106966264/MOOC_Metodologias_Agiles_M1.pdf/de3c8fdd-a9fb-4ed1-8ed9-317ffe700af5?version=1.0)
-
 	
 ## Módulo 2. Manifiesto Ágil
+
+Podríamos decir que los principios y valores de cualquier enfoque son la base sobre la que se sustenta todo. Las metodologías ágiles no podía ser menos, por ello están basadas en una serie de principios y valores. Podríamos decir que todo lo demás se asienta sobre ellos. En este módulo veremos estos principios y valores en detalle.
+
+### Valores
+
+Aunque hay muchas definiciones de valores nos gusta especialmente una que dice que valores es aquello que valoramos, es decir, a lo que damos mayor importancia y en base a lo que tomamos las decisiones.
+
+[![Valores](https://i.vimeocdn.com/video/592479596.webp?mw=700&mh=394 "Valores")](
+https://player.vimeo.com/video/183280689)
+
+### 12 principios
+
+Para complementar a los valores tenemos los principios que podríamos decir que son recetas más concretas que nos permiten llevar a la práctica los valores. En el propio manifiesto ágil se incluyen 12 principios que pasamos a enumerar a continuación:
+
+[![12 principios](https://i.vimeocdn.com/video/592480208.webp?mw=700&mh=394 "12 principios")](
+https://player.vimeo.com/video/183280690)
+
+### Comentarios de experto
+
+En esta sección podrás escuchar a diferentes personas y expertos sus opiniones sobre por donde empiezan a trabajar en sus proyectos orientados con metodologías ágiles.
+
+[![Comentarios de experto](https://i.vimeocdn.com/video/592480322.webp?mw=700&mh=394 "Comentarios de experto")](
+https://player.vimeo.com/video/183280691)
+
+
+### M2. Test teórico
+
+### Documentación
+
+[Descargar documento: MOOC_Metodologias_Agiles_M2.pdf](https://miriadax.net/documents/106951425/106966326/MOOC_Metodologias_Agiles_M2.pdf/52c275dc-366b-40ba-ab0d-1579cb919bba?version=1.0)
+
 ## Módulo 3. Introducción a Scrum
 ## Módulo 4. Artefactos de Scrum.
 ## Módulo 5. Reuniones en Scrum
