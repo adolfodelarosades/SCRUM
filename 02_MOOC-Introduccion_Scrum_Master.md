@@ -6,9 +6,11 @@
 
 ## MATERIAL DEL CURSO
 
-* FORO GENERAL DEL CURSO - Introducción Certificación Scrum Master
-* ¿Qué es Scrum?
+* [¿Qué es Scrum?](pdfs/EDAP_Presentacion_MarcoScrum v2.pdf)
 * Infografía Marco Scrum
+
+   <img src="images/scrum_poster.jpg">
+
 
 1. LECCIONES - AGILE MINDSET
 
