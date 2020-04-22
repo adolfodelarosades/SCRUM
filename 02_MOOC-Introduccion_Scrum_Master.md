@@ -10,7 +10,7 @@
 * ¿Qué es Scrum?
 * Infografía Marco Scrum
 
-## LECCIONES - AGILE MINDSET
+1. LECCIONES - AGILE MINDSET
 
 * Being Agile 
 * Manifiesto Ágil - VALORES 
@@ -18,13 +18,13 @@
 * Declaración de Interdepencia - DOI 
 * Gestión Ágil de Proyectos 
 
-## LECCIONES - LEAN THINKING
+2. LECCIONES - LEAN THINKING
 
 * Origen Lean Thinking 
 * Valor vs. Desperdicio 
 * Mejora Continua 
 
-## LECCIONES - SCRUM FRAMEWORK
+3. LECCIONES - SCRUM FRAMEWORK
 
 * Marco de Scrum
    * Teoría de Scrum - Qué es Scrum 
@@ -56,7 +56,7 @@
    * Definición de Terminado - DoD 
    * Seguimiento del Progreso 
 
-## LECCIONES - KANBAN PARA EQUIPOS SCRUM
+4. LECCIONES - KANBAN PARA EQUIPOS SCRUM
 
    * Introducción Kanban 
    * Expectativas de Nivel de Servicio - SLE 
@@ -64,7 +64,7 @@
    * Métricas Kanban 
    * Eventos basados en el flujo 
    
-## LECCIONES - PRÁCTICAS ÁGILES
+5. LECCIONES - PRÁCTICAS ÁGILES
 
 * Historias de Usuario
    * Historias de Usuario 
