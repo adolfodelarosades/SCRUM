@@ -108,8 +108,8 @@ Recuerda aportar tus impresiones también en Twitter con los siguientes Hashtags
 
 **¿Cuál fue el mayor aporte del Taylorismo a los modelos de trabajo?**
 
-* Dividir a los trabajadores entre pensadores y ejecutores.
-* Reducción de los costes de mantenimiento. :-1:
+* Dividir a los trabajadores entre pensadores y ejecutores. :+1:
+* Reducción de los costes de mantenimiento. 
 * Las huelgas.
 * La aparición de sindicatos.
 
@@ -117,8 +117,8 @@ Recuerda aportar tus impresiones también en Twitter con los siguientes Hashtags
 
 * Respeto por las personas y entrega continua.
 * Minimización de desperdicio, aumento de la eficiencia en los procesos y respeto por las personas.
-* Entrega de valor continuo, minimización de desperdicio y la mejora continua.
-* Maximización de la entrega de valor y minimización de desperdicios. :-1:
+* Entrega de valor continuo, minimización de desperdicio y la mejora continua. :+1:
+* Maximización de la entrega de valor y minimización de desperdicios. 
 
 **Si hablamos del triángulo de hierro como el tiempo, coste y alcance de un proyecto, ¿cuáles de estas dos variables se fijan en las metodologías ágiles?**
 
@@ -129,8 +129,8 @@ Recuerda aportar tus impresiones también en Twitter con los siguientes Hashtags
 
 **¿Por qué son importantes las metodologías ágiles?**
 
-* Porque permiten mejorar la velocidad de los proyectos. :-1:
-* Porque mejoran la adaptación a los cambios.
+* Porque permiten mejorar la velocidad de los proyectos.
+* Porque mejoran la adaptación a los cambios. :+1:
 * Porque mejoran la flexibilidad de las personas.
 * Porque permiten conseguir mayor autonomía en los equipos.
 
