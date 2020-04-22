@@ -6,7 +6,7 @@
 
 ## MATERIAL DEL CURSO
 
-[¿Qué es Scrum?](pdfs/EDAP_Presentacion_MarcoScrum v2.pdf)
+[¿Qué es Scrum?](pdfs/EDAP_Presentacion_MarcoScrum_v2.pdf)
 
 Infografía Marco Scrum
 
