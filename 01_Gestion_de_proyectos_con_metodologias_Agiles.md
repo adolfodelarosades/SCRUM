@@ -367,6 +367,57 @@ A continuación, te proponemos una pequeña prueba de carácter teórico, para q
 [Descargar documento: MOOC_Metodologias_Agiles_M4.pdf](https://miriadax.net/documents/106951425/106966368/MOOC_Metodologias_Agiles_M4.pdf/6b7f90c0-53bc-4490-9152-6134be54d17d?version=1.0)
 
 ## Módulo 5. Reuniones en Scrum
+
+Los eventos o reuniones que suceden en Scrum para conseguir mayor eficiencia.
+
+### Reunión de planificación
+
+Tiene una duración de 8 horas para sprints de un mes. Para sprints más cortos la duración es severamente más corta. Veamos a continuación en qué consisten este tipo de reuniones.
+
+[![Reunión de planificación](https://i.vimeocdn.com/video/592481767.webp?mw=700&mh=394 "Reunión de planificación")](
+https://player.vimeo.com/video/183282969)
+
+
+### Reunión diaria
+
+El objetivo tras esta reunión, es la de facilitar la transferencia de información y colaboración entre los miembros del equipo. Con esto se mejora la productividad del equipo, ya que, nos permite ayudarnos unos a otros
+
+[![Reunión diaria](https://i.vimeocdn.com/video/592481911.webp?mw=700&mh=394 "Reunión diaria")](
+https://player.vimeo.com/video/183282970)
+
+
+### Retrospectiva
+
+Con el objetivo de mejorar la productividad y la calidad del producto que estamos desarrollando, el equipo hace el ejercicio de analizar como está ejecutando las tareas durante la iteración. Veamos en el siguiente vídeo como es esta reunión.
+
+[![Retrospectiva](https://i.vimeocdn.com/video/592482069.webp?mw=700&mh=394 "Retrospectiva")](
+https://player.vimeo.com/video/183282971)
+
+### Revisión - Demo
+
+Los objetivos tras esta reunión son los de:
+
+* Revisar que se ha completado y que no durante el sprint.
+* Presentar la demo a los interesados.
+
+[![Revisión - Demo](https://i.vimeocdn.com/video/592482237.webp?mw=700&mh=394 "Revisión - Demo")](
+https://player.vimeo.com/video/183282972)
+
+### Refinamiento
+
+El refinamiento (refinement) de la Lista de Producto es el acto de añadir detalle, estimaciones y orden a los elementos de la Lista de Producto. Veamos en el siguiente vídeo como es esta reunión:
+
+¿Ya has intentado llevar a cabo alguna reunión Scrum? Cuéntanos tu experiencia en Twitter con los siguientes Hashtags: #MetodologiasAgilesCE #ConectaEmpleo
+
+[![Refinamiento](https://i.vimeocdn.com/video/602897600.webp?mw=700&mh=394 "Refinamiento")](
+https://player.vimeo.com/video/183282975)
+
+### M5. Test teórico
+
+### Documento
+
+[Descargar documento: MOOC_Metodologias_Agiles_M5.pdf](https://miriadax.net/documents/106951425/106966413/MOOC_Metodologias_Agiles_M5.pdf/6d2fcf2a-5557-4862-b9ac-60fa25ba3381?version=1.0)
+
 ## Módulo 6. Roles en Scrum
 ## Módulo 7. Estimación ágil.
 ## Módulo 8. Kanban.
