@@ -613,7 +613,7 @@ Veremos una pequeña introducción al concepto de Lean para posteriormente ver q
 
 A continuación, vamos a ver un poco de historia de donde surge Kanban, cuáles son sus fundamentos y un poquito de contexto histórico.
 
-[![Breve historia de Kanban](https://i.vimeocdn.com/video/592483045.webp?mw=700&mh=394 "Breve historia de Kanban")](
+[![Breve historia de Kanban](https://i.vimeocdn.com/video/592483408.webp?mw=700&mh=394 "Breve historia de Kanban")](
 https://player.vimeo.com/video/183291569)
 
 ### Principios y prácticas
