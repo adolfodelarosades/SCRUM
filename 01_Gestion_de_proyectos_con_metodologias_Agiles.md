@@ -639,7 +639,7 @@ https://player.vimeo.com/video/183291572)
 ### Ejemplos de uso I
 
 [![Ejemplos de uso I](https://i.vimeocdn.com/video/592483932.webp?mw=700&mh=394 "Ejemplos de uso I")](
-src="https://player.vimeo.com/video/183291574")
+https://player.vimeo.com/video/183291574)
 
 ### Ejemplos de uso II
 
