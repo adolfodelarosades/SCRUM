@@ -414,6 +414,43 @@ https://player.vimeo.com/video/183282975)
 
 ### M5. Test teórico
 
+A continuación, te proponemos una pequeña prueba de carácter teórico, para que puedas comprobar si has comprendido los diferentes temas tratados durante el módulo.
+
+**Indica cuál de las siguientes afirmaciones es correcta relativo a los sprints en Scrum:**
+
+* Son de tiempo fijo de entre una y cuatro semanas. :+1:
+* Son de tiempo variable en función de los requisitos a construir.
+* Son definidos al inicio del proyecto.
+* Son de tiempo fijo entre uno y cuatro meses.
+
+**¿Cuál es el objetivo de la reunión diaria?**
+
+* Hacer un reporte de situación al Scrum Master.
+* Hacer un reporte de situación al Dueño de Producto. NO
+* Que el equipo se sincronice para adelantarse a los problemas que pudieran surgir durante el día. :+1:
+* Que el equipo comparta sus problemas.
+
+**¿Cuál es el objetivo del refinamiento?**
+
+* Establecer nuevos objetivos del Sprint actual.
+* Establecer los objetivos del próximo Sprint. NO
+* Examinar y revisar los elementos de la Pila de Sprint.
+* Examinar y revisar los elementos de la Pila de Producto.
+
+**¿Cuál es el objetivo de una retrospectiva?**
+
+* Inspeccionar el incremento de producto.
+* Inspeccionar Scrum.
+* Inspeccionar cómo ha estado el Equipo Scrum y cada una de las personas que lo componen. :+1:
+* Reportar informe al Scrum Master sobre ambiente laboral.
+
+**¿Cuándo inicia un nuevo Sprint?**
+
+* Inmediatamente finaliza el anterior. :+1:
+* Unos días después bajo criterio del equipo Scrum.
+* Dos días después de la finalización del anterior.
+* Justo después de que se hace la reunión de demo o review.
+
 ### Documento
 
 [Descargar documento: MOOC_Metodologias_Agiles_M5.pdf](https://miriadax.net/documents/106951425/106966413/MOOC_Metodologias_Agiles_M5.pdf/6d2fcf2a-5557-4862-b9ac-60fa25ba3381?version=1.0)
