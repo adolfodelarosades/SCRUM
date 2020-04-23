@@ -241,6 +241,43 @@ https://player.vimeo.com/video/183281460)
 
 ### M3. Test teórico
 
+A continuación, te proponemos una pequeña prueba de carácter teórico, para que puedas comprobar si has comprendido los diferentes temas tratados durante el módulo.
+
+**Indica los roles que forman Scrum:**
+
+* Dueño de producto, Scrum Master y Clientes.
+* Dueño de producto, Scrum Master, Clientes y Usuarios.
+* Scrum Master, Equipo de Construcción, Dueño de Producto e Interesados.
+* Ninguna de las respuestas anteriores es correcta.
+
+**Scrum es:**
+
+* Un marco de trabajo basado en un enfoque iterativo e incremental de construcción de producto.
+* Un deporte de riesgo.
+* Una metodología estricta.
+* Una manera de gestionar proyectos tradicionales.
+
+**Indica cuál es el objetivo de la Reunión de Revisión o Demo:**
+
+* Recibir feedback de los interesados.
+* Reportar el progreso del proyecto a los jefes.
+* Mostrar el trabajo completado de todo el proyecto.
+* Todas las respuestas anteriores son correctas.
+
+**La reunión diaria:**
+
+* Es una reunión de sincronización entre los miembros del equipo.
+* Es una reunión corta de no más de 15 minutos.
+* Se realiza a primera hora de la mañana.
+* Todas las respuestas anteriores son correctas.
+
+**Indica cuál es el objetivo de la Reunión de Retrospectiva:**
+
+* Validar el proceso de construcción.
+* Terapia psicológica del equipo.
+* Inspeccionar el proceso y cómo están trabajando las personas en el equipo Scrum.
+* Ver qué ha ido mal en el equipo de construcción.
+
 ## Módulo 4. Artefactos de Scrum.
 ## Módulo 5. Reuniones en Scrum
 ## Módulo 6. Roles en Scrum
