@@ -278,7 +278,57 @@ A continuación, te proponemos una pequeña prueba de carácter teórico, para q
 * Inspeccionar el proceso y cómo están trabajando las personas en el equipo Scrum. :+1:
 * Ver qué ha ido mal en el equipo de construcción.
 
+### Documentacion
+
+[Descargar documento: MOOC_MetodologiasAgilesM3.pdf](https://miriadax.net/documents/106951425/106966121/MOOC_MetodologiasAgilesM3.pdf/1bc52f11-059f-440d-bc58-aa48e40964cc?version=1.0)
+
 ## Módulo 4. Artefactos de Scrum.
+
+Los artefactos en Scrum son todas aquellas herramientas que nos sirven para utilizar el marco de trabajo de la mejor manera posible. Veremos cuales son estos artefactos y su utilidad dentro del marco.
+
+### Pila de producto
+
+Es el conjunto de requisitos o características que debe tener nuestro producto. Contendrá todo lo que se considere aporta valor, aunque estará priorizado de arriba a abajo, donde arriba estarán los elementos más prioritarios y por ello, más detallados y desgranados. En la parte inferior podremos tener elementos o requisitos que todavía no están muy claros.
+
+[![Pila de producto](https://i.vimeocdn.com/video/592480955.webp?mw=700&mh=394 "Pila de producto")](
+https://player.vimeo.com/video/183282229)
+
+### PBI vs Historia de usuario
+
+Vamos a ver qué tipo de elementos son los que pueden incluirse dentro de la Pila de Producto. La guía de Scrum nos habla que dentro de esta Pila de producto lo que hay son Elementos de la pila del Producto, PBI de sus siglas en inglés Product Backlog Item. Parece lógico, ¿verdad?
+
+[![PBI vs Historia de usuario](https://i.vimeocdn.com/video/595252885.webp?mw=700&mh=394 "PBI vs Historia de usuario")](
+https://player.vimeo.com/video/183282231)
+
+### Pila de sprint
+
+Es el conjunto de requisitos o características que debe tener nuestro producto. Contendrá todo lo que se considere aporta valor, aunque estará priorizado de arriba a abajo, donde arriba estarán los elementos más prioritarios y por ello, más detallados y desgranados. En la parte inferior podremos tener elementos o requisitos que todavía no están muy claros.
+
+[![Pila de sprint](https://i.vimeocdn.com/video/592481111.webp?mw=700&mh=394 "Pila de sprint")](
+https://player.vimeo.com/video/183282230)
+
+### Incremento de producto
+
+El incremento de producto es el resultado de cada Sprint. Las dos características más importantes que debe reunir este incremento.
+
+[![Incremento de producto](https://i.vimeocdn.com/video/592481377.webp?mw=700&mh=394 "Incremento de producto")](
+https://player.vimeo.com/video/183282232)
+
+### Comentario de experto
+
+En esta sección podrás escuchar a diferentes personas y expertos sus opiniones sobre por donde empiezan a trabajar en sus proyectos orientados con metodologías ágiles.
+
+¿Has comenzado a crear tu propio SCRUM? 
+
+[![Comentario de experto](https://i.vimeocdn.com/video/592481549.webp?mw=700&mh=394 "Comentario de experto")](
+https://player.vimeo.com/video/183282236)
+
+### M4. Test teórico
+
+### Documentación
+
+[Descargar documento: MOOC_Metodologias_Agiles_M4.pdf](https://miriadax.net/documents/106951425/106966368/MOOC_Metodologias_Agiles_M4.pdf/6b7f90c0-53bc-4490-9152-6134be54d17d?version=1.0)
+
 ## Módulo 5. Reuniones en Scrum
 ## Módulo 6. Roles en Scrum
 ## Módulo 7. Estimación ágil.
