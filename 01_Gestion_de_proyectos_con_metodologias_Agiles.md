@@ -175,24 +175,23 @@ https://player.vimeo.com/video/183280691)
 
 A continuación, te proponemos una pequeña prueba de carácter teórico, para que puedas comprobar si has comprendido los diferentes temas tratados durante el módulo.
 
-
 **Indica cuál de las siguientes afirmaciones es verdadera:**
 
 * En los enfoques ágiles lo importante son los procesos.
 * En los enfoques ágiles lo importante son las herramientas que utilicemos.
-* En los enfoques ágiles valoramos más las personas que los procesos y herramientas.
+* En los enfoques ágiles valoramos más las personas que los procesos y herramientas. :+1:
 * En los enfoques ágiles solo se valora a las personas.
 
 **Indica cuál de las siguientes afirmaciones es verdadera:**
 
 * En los enfoques ágiles prima más seguir un plan establecido que adaptarnos a los cambios.
-* En los enfoques ágiles prima la adaptación al cambio frente a seguir un plan.
+* En los enfoques ágiles prima la adaptación al cambio frente a seguir un plan. :+1:
 * En los enfoques ágiles todos los días se cambian las cosas.
 * Todas las respuestas anteriores son falsas.
 
 **Indica cuál de las siguientes afirmaciones es verdadera:**
 
-* En los enfoques ágiles valoramos más la colaboración que la negociación contractual.
+* En los enfoques ágiles valoramos más la colaboración que la negociación contractual. :+1:
 * En los enfoques ágiles valoramos más negociar que colaborar.
 * En los enfoques ágiles valoramos más el respeto y la disciplina.
 * Todas las respuestas anteriores son falsas.
@@ -201,13 +200,13 @@ A continuación, te proponemos una pequeña prueba de carácter teórico, para q
 
 * El manifiesto ágil con 4 principios y 12 valores.
 * Los 4 valores ágiles.
-* El manifiesto ágil con 4 valores y 12 principios.
+* El manifiesto ágil con 4 valores y 12 principios. :+1:
 * La guía de la Agile Aliance escrita en 2001.
 
 **Indica cuál de las siguientes afirmaciones es verdadera:**
 
 * En los enfoques ágiles se valora más la documentación que el software funcionando.
-* En los enfoques ágiles se valora más el software funcionando que la documentación exhaustiva.
+* En los enfoques ágiles se valora más el software funcionando que la documentación exhaustiva. :+1:
 * En los enfoques ágiles lo más importante es respetar el código de los compañeros.
 * Todas las anteriores son verdaderas.
 
