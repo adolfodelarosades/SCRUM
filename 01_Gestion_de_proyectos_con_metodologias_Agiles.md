@@ -426,16 +426,16 @@ A continuación, te proponemos una pequeña prueba de carácter teórico, para q
 **¿Cuál es el objetivo de la reunión diaria?**
 
 * Hacer un reporte de situación al Scrum Master.
-* Hacer un reporte de situación al Dueño de Producto. NO
+* Hacer un reporte de situación al Dueño de Producto.
 * Que el equipo se sincronice para adelantarse a los problemas que pudieran surgir durante el día. :+1:
 * Que el equipo comparta sus problemas.
 
 **¿Cuál es el objetivo del refinamiento?**
 
 * Establecer nuevos objetivos del Sprint actual.
-* Establecer los objetivos del próximo Sprint. NO
+* Establecer los objetivos del próximo Sprint.
 * Examinar y revisar los elementos de la Pila de Sprint.
-* Examinar y revisar los elementos de la Pila de Producto.
+* Examinar y revisar los elementos de la Pila de Producto. :+1:
 
 **¿Cuál es el objetivo de una retrospectiva?**
 
@@ -456,5 +456,49 @@ A continuación, te proponemos una pequeña prueba de carácter teórico, para q
 [Descargar documento: MOOC_Metodologias_Agiles_M5.pdf](https://miriadax.net/documents/106951425/106966413/MOOC_Metodologias_Agiles_M5.pdf/6d2fcf2a-5557-4862-b9ac-60fa25ba3381?version=1.0)
 
 ## Módulo 6. Roles en Scrum
+
+En Scrum aparecen nuevos roles con nuevas responsabilidades. Por eso, en este módulo dedicaremos especial atención en explicarlos.
+
+### Dueño de producto
+
+El dueño de producto es el responsable de mantener la visión del producto que se va a construir maximizando la cantidad de valor entregado al finalizar cada Sprint.
+
+[![Dueño de producto](https://i.vimeocdn.com/video/592482496.webp?mw=700&mh=394 "Dueño de producto")](
+https://player.vimeo.com/video/183290822)
+
+### Scrum Master
+
+El Scrum Master es un rol con un conjunto de responsabilidades muy variadas. Realiza labores de facilitador de reuniones, así como acompañante del equipo para ayudarle a resolver las problemáticas que se vaya encontrando a lo largo del proyecto.
+
+[![Dueño de producto](https://i.vimeocdn.com/video/592482622.webp?mw=700&mh=394 "Dueño de producto")](
+https://player.vimeo.com/video/183290823)
+
+### Equipo de construcción
+
+Equipo de construcción son los encargados de construir el producto. Si estamos hablando de equipos de construcción de software estará formado por desarrolladores, diseñadores, arquitectos, testers y cualquier persona que esté implicada de una u otra manera en la construcción del producto.
+
+[![Equipo de construcción](https://i.vimeocdn.com/video/595254371.webp?mw=700&mh=394 "Equipo de construcción")](
+https://player.vimeo.com/video/183290824)
+
+### Usuarios y clientes
+
+Otro elemento fundamental son los clientes y usuarios. Son todas aquellas personas que de una manera u otra utilizan el resultado de nuestro producto. Si hablamos de aplicaciones de software serán los usuarios y clientes que se conectarán a la aplicación para utilizarla. Debemos distinguir a usuario (cualquier persona que utilice la aplicación) de cliente (aquella persona que realmente paga por ella)
+
+[![Usuarios y clientes](https://i.vimeocdn.com/video/595254469.webp?mw=700&mh=394 "Usuarios y clientes")](
+https://player.vimeo.com/video/183290826)
+
+### Comentarios de experto
+
+En esta sección podrás escuchar a diferentes personas y expertos sus opiniones sobre por donde empiezan a trabajar en sus proyectos orientados con metodologías ágiles.
+
+[![Comentarios de experto](https://i.vimeocdn.com/video/592726012.webp?mw=700&mh=394 "Comentarios de experto")](
+https://player.vimeo.com/video/183468039)
+
+### M6. Test teórico
+
+### Documentación
+
+[Descargar documento: MOOC_Metodologias_Agiles_M6.pdf](https://miriadax.net/documents/106951425/106966444/MOOC_Metodologias_Agiles_M6.pdf/951d37bf-5097-4351-9ace-1ea39776ad49?version=1.0)
+
 ## Módulo 7. Estimación ágil.
 ## Módulo 8. Kanban.
