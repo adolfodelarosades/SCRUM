@@ -627,12 +627,11 @@ https://player.vimeo.com/video/183291570)
 
 Las clases de servicio nos indican los tipos diferentes de tareas que vamos a ser capaces de gestionar en nuestro tablero. Tenemos que tener presente que pueden aparecer diferentes tipos de tareas dentro de nuestro tablero. Cada uno de estos tipos de tarea tendrán generalmente una gestión diferente.
 
-[![Clases de servicio](https://i.vimeocdn.com/video/592483651.webp?mw=700&mh=394 "Clases de servicio")](
-src="https://player.vimeo.com/video/183291571")
+[![Clases de servicio](https://i.vimeocdn.com/video/592483651.webp?mw=700&mh=394 "Clases")]( src="https://player.vimeo.com/video/183291571")
 
 ### Primeros pasos
 
-[![Clases de servicio](https://i.vimeocdn.com/video/592483833.webp?mw=700&mh=394 "Clases de servicio")](
+[![Primeros pasos](https://i.vimeocdn.com/video/592483833.webp?mw=700&mh=394 "Primeros pasos")](
 src="https://player.vimeo.com/video/183291572")
 
 
