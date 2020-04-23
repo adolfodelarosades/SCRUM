@@ -627,12 +627,13 @@ https://player.vimeo.com/video/183291570)
 
 Las clases de servicio nos indican los tipos diferentes de tareas que vamos a ser capaces de gestionar en nuestro tablero. Tenemos que tener presente que pueden aparecer diferentes tipos de tareas dentro de nuestro tablero. Cada uno de estos tipos de tarea tendrán generalmente una gestión diferente.
 
-[![Clases de servicio](https://i.vimeocdn.com/video/592483651.webp?mw=700&mh=394 "Clases")]( src="https://player.vimeo.com/video/183291571")
+[![Clases de servicio](https://i.vimeocdn.com/video/592483651.webp?mw=700&mh=394 "Clases de servicio")](
+https://player.vimeo.com/video/183291571)
 
 ### Primeros pasos
 
 [![Primeros pasos](https://i.vimeocdn.com/video/592483833.webp?mw=700&mh=394 "Primeros pasos")](
-src="https://player.vimeo.com/video/183291572")
+https://player.vimeo.com/video/183291572)
 
 
 ### Ejemplos de uso I
@@ -643,14 +644,14 @@ src="https://player.vimeo.com/video/183291574")
 ### Ejemplos de uso II
 
 [![Ejemplos de uso II](https://i.vimeocdn.com/video/592484048.webp?mw=700&mh=394 "Ejemplos de uso II")](
-src="https://player.vimeo.com/video/183291575")
+https://player.vimeo.com/video/183291575)
 
 ### Comentarios de experto
 
 Ahora que ya sabes qué es un Kanban, escucha a los expertos cómo lo usan, y las formas más eficaces.
 
 [![Comentarios de experto](https://i.vimeocdn.com/video/592484162.webp?mw=700&mh=394 "Comentarios de experto")](
-src="https://player.vimeo.com/video/183291576")
+https://player.vimeo.com/video/183291576)
 
 ### M8. Test teórico
 
