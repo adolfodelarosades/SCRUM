@@ -215,6 +215,32 @@ A continuación, te proponemos una pequeña prueba de carácter teórico, para q
 [Descargar documento: MOOC_Metodologias_Agiles_M2.pdf](https://miriadax.net/documents/106951425/106966326/MOOC_Metodologias_Agiles_M2.pdf/52c275dc-366b-40ba-ab0d-1579cb919bba?version=1.0)
 
 ## Módulo 3. Introducción a Scrum
+
+Scrum es un proceso iterativo e incremental utilizado para la construcción de productos. En este módulo lo veremos en su globalidad.
+
+### Breve historia
+
+Los autores describen Scrum como una nueva aproximación al desarrollo de producto que incrementaría la velocidad y flexibilidad. Veamos en el siguiente vídeo, un poco de historia sobre esta metodología:
+
+[![Breve historia](https://i.vimeocdn.com/video/592480568.webp?mw=700&mh=394 "Breve historia")](
+https://player.vimeo.com/video/183281458)
+
+### Scrum en 5 minutos
+
+En el siguiente vídeo, vamos a intentar explicar en qué consiste SCRUM. Vamos a ello.
+
+[![Scrum en 5 minutos](https://i.vimeocdn.com/video/592480691.webp?mw=700&mh=394 "Scrum en 5 minutos")](
+https://player.vimeo.com/video/183281459)
+
+### Comentarios de experto
+
+En esta sección podrás escuchar a diferentes personas y expertos sus opiniones sobre por donde empiezan a trabajar en sus proyectos orientados con metodologías ágiles.
+
+[![Comentarios de experto](https://i.vimeocdn.com/video/592480831.webp?mw=700&mh=394 "Comentarios de experto")](
+https://player.vimeo.com/video/183281460)
+
+### M3. Test teórico
+
 ## Módulo 4. Artefactos de Scrum.
 ## Módulo 5. Reuniones en Scrum
 ## Módulo 6. Roles en Scrum
