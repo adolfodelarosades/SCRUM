@@ -538,4 +538,36 @@ A continuación, te proponemos una pequeña prueba de carácter teórico, para q
 [Descargar documento: MOOC_Metodologias_Agiles_M6.pdf](https://miriadax.net/documents/106951425/106966444/MOOC_Metodologias_Agiles_M6.pdf/951d37bf-5097-4351-9ace-1ea39776ad49?version=1.0)
 
 ## Módulo 7. Estimación ágil.
+
+En este módulo vamos a ver conceptos relacionados con las estimaciones así como diferentes aproximaciones para realizarlas.
+
+### Puntos de historia
+
+Existen diferentes técnicas y herramientas para estimar. También existen diferentes unidades en las que hacerlo. Veamos algunas de estas a continuación.
+
+[![Puntos de historia](https://i.vimeocdn.com/video/592483045.webp?mw=700&mh=394 "Puntos de historia")](
+https://player.vimeo.com/video/183291210)
+
+### Tipos de estimaciones
+
+Para la estimación existen diferentes aproximaciones en función de los equipos. Hay que tener presente que el principal objetivo desde el punto de vista ágil es el de generar conversación entre los miembros del equipo de tal manera que aparezcan los problemas, bloqueos y soluciones de los PBIs del sprint en curso.
+
+[![Tipos de estimaciones](https://i.vimeocdn.com/video/592483197.webp?mw=700&mh=394 "Tipos de estimaciones")](
+https://player.vimeo.com/video/183291211)
+
+### Comentarios de experto
+
+En esta sección podrás escuchar a diferentes personas y expertos sus opiniones sobre por donde empiezan a trabajar en sus proyectos orientados con metodologías ágiles.
+
+[![Comentarios de experto](https://i.vimeocdn.com/video/592483306.webp?mw=700&mh=394 "Comentarios de experto")](
+https://player.vimeo.com/video/183291212)
+
+### M7. Test teórico
+
+### Documentación
+
+[Descargar documento: MOOC_Metodologias_Agiles_M7.pdf](https://miriadax.net/documents/106951425/106967885/MOOC_Metodologias_Agiles_M7.pdf/480cf3f7-ac5e-4dd7-a54d-1911122d7759?version=1.0)
+
+
+
 ## Módulo 8. Kanban.
