@@ -338,7 +338,7 @@ A continuación, te proponemos una pequeña prueba de carácter teórico, para q
 
 * Confianza.
 * Adaptación.
-* Transparencia.
+* Transparencia. :+1:
 * Respeto.
 
 **¿Qué se entiende por Incremento de Producto?**
@@ -351,14 +351,14 @@ A continuación, te proponemos una pequeña prueba de carácter teórico, para q
 **¿Qué es la Pila de Producto?**
 
 * Es una excel con elementos.
-* El conjunto de todos los requisitos o PBIs de mi producto.
+* El conjunto de todos los requisitos o PBIs de mi producto. :+1:
 * Es una planificación del proyecto.
-* Todas las respuestas anteriores son correctas.NO
+* Todas las respuestas anteriores son correctas.
 
 **Indica cuál de las siguientes afirmaciones es correcta:**
 
-* Una pila de producto debe estar estimada completamente.
-* Una pila de producto no debe estar priorizada en su totalidad.NO
+* Una pila de producto debe estar estimada completamente. :+1:
+* Una pila de producto no debe estar priorizada en su totalidad.
 * Una pila de producto es algo estático.
 * Todas las respuestas anteriores son correctas.
 
