@@ -325,6 +325,43 @@ https://player.vimeo.com/video/183282236)
 
 ### M4. Test teórico
 
+A continuación, te proponemos una pequeña prueba de carácter teórico, para que puedas comprobar si has comprendido los diferentes temas tratados durante el módulo.
+
+**¿Qué contiene la Pila de Producto?**
+
+* Historias de Usuario.
+* PBIs, entendidos como Producto Backlog Ítems. :+1:
+* Número finito de elementos de cualquier ámbito.
+* Casos de uso.
+
+**¿Cuál es uno de los pilares fundamentales de Scrum relacionados con los artefactos?**
+
+* Confianza.
+* Adaptación.
+* Transparencia.
+* Respeto.
+
+**¿Qué se entiende por Incremento de Producto?**
+
+* La diferencia entre el producto actual y el anterior.
+* El producto construido al final del proyecto.
+* El resultado de cada Sprint. :+1:
+* La parte proporcional de la Pila del Sprint en producción.
+
+**¿Qué es la Pila de Producto?**
+
+* Es una excel con elementos.
+* El conjunto de todos los requisitos o PBIs de mi producto.
+* Es una planificación del proyecto.
+* Todas las respuestas anteriores son correctas.NO
+
+**Indica cuál de las siguientes afirmaciones es correcta:**
+
+* Una pila de producto debe estar estimada completamente.
+* Una pila de producto no debe estar priorizada en su totalidad.NO
+* Una pila de producto es algo estático.
+* Todas las respuestas anteriores son correctas.
+
 ### Documentación
 
 [Descargar documento: MOOC_Metodologias_Agiles_M4.pdf](https://miriadax.net/documents/106951425/106966368/MOOC_Metodologias_Agiles_M4.pdf/6b7f90c0-53bc-4490-9152-6134be54d17d?version=1.0)
