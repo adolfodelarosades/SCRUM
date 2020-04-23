@@ -496,6 +496,43 @@ https://player.vimeo.com/video/183468039)
 
 ### M6. Test teórico
 
+A continuación, te proponemos una pequeña prueba de carácter teórico, para que puedas comprobar si has comprendido los diferentes temas tratados durante el módulo.
+
+**¿Cuál es la labor principal del dueño de producto?**
+
+* Gestionar los requisitos con los clientes.
+* Maximizar la cantidad de valor entregado en cada Sprint. :+1:
+* Hablar con el equipo de construcción.
+* Facilitar las reuniones.
+
+**Indica cuál de las siguientes afirmaciones es correcta:**
+
+* Los clientes son las personas que pagan por utilizar los servicios que proporciono. :+1:
+* Los usuarios son las personas que pagan por utilizar los servicios que proporciono.
+* Los stakeholders son las personas que pagan por utilizar los servicios que proporciono.
+* Todas las respuestas anteriores son correctas.
+
+**Indica cuál de las siguientes afirmaciones es correcta:**
+
+* El equipo de construcción no forma parte del equipo Scrum.
+* El dueño de producto no forma parte del equipo Scrum, solo son el equipo de construcción y el Scrum Master.
+* El equipo Scrum es el equipo de construcción exclusivamente.
+* El equipo Scrum está formado por dueño de producto, Scrum Master y equipo de construcción. :+1:
+
+**Indica cuál de estas funciones NO es responsabilidad de los miembros del equipo de construcción:**
+
+* Decidir sobre cómo realizar su trabajo.
+* Estimar las tareas técnicas.
+* Marcar los objetivos del Sprint. :+1:
+* Construir el producto.
+
+**¿Cuál de las siguientes es la función principal del Scrum Master?**
+
+* Es el encargado de mantener la pila de producto.
+* Es parte del equipo así que también construye producto.
+* Es el encargado de marcar los objetivos del sprint.
+* Es el vigía del proceso que vela porque Scrum se lleve a cabo. Además de estar pendiente de las personas que componen el equipo. :+1:
+
 ### Documentación
 
 [Descargar documento: MOOC_Metodologias_Agiles_M6.pdf](https://miriadax.net/documents/106951425/106966444/MOOC_Metodologias_Agiles_M6.pdf/951d37bf-5097-4351-9ace-1ea39776ad49?version=1.0)
