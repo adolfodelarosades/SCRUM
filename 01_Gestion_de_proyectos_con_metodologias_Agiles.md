@@ -247,19 +247,19 @@ A continuación, te proponemos una pequeña prueba de carácter teórico, para q
 
 * Dueño de producto, Scrum Master y Clientes.
 * Dueño de producto, Scrum Master, Clientes y Usuarios.
-* Scrum Master, Equipo de Construcción, Dueño de Producto e Interesados.
+* Scrum Master, Equipo de Construcción, Dueño de Producto e Interesados. :+1:
 * Ninguna de las respuestas anteriores es correcta.
 
 **Scrum es:**
 
-* Un marco de trabajo basado en un enfoque iterativo e incremental de construcción de producto.
+* Un marco de trabajo basado en un enfoque iterativo e incremental de construcción de producto. :+1:
 * Un deporte de riesgo.
 * Una metodología estricta.
 * Una manera de gestionar proyectos tradicionales.
 
 **Indica cuál es el objetivo de la Reunión de Revisión o Demo:**
 
-* Recibir feedback de los interesados.
+* Recibir feedback de los interesados. :+1:
 * Reportar el progreso del proyecto a los jefes.
 * Mostrar el trabajo completado de todo el proyecto.
 * Todas las respuestas anteriores son correctas.
@@ -269,13 +269,13 @@ A continuación, te proponemos una pequeña prueba de carácter teórico, para q
 * Es una reunión de sincronización entre los miembros del equipo.
 * Es una reunión corta de no más de 15 minutos.
 * Se realiza a primera hora de la mañana.
-* Todas las respuestas anteriores son correctas.
+* Todas las respuestas anteriores son correctas. :+1:
 
 **Indica cuál es el objetivo de la Reunión de Retrospectiva:**
 
 * Validar el proceso de construcción.
 * Terapia psicológica del equipo.
-* Inspeccionar el proceso y cómo están trabajando las personas en el equipo Scrum.
+* Inspeccionar el proceso y cómo están trabajando las personas en el equipo Scrum. :+1:
 * Ver qué ha ido mal en el equipo de construcción.
 
 ## Módulo 4. Artefactos de Scrum.
