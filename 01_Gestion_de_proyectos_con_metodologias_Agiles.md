@@ -655,6 +655,43 @@ https://player.vimeo.com/video/183291576)
 
 ### M8. Test teórico
 
+A continuación, te proponemos una pequeña prueba de carácter teórico, para que puedas comprobar si has comprendido los diferentes temas tratados durante el módulo.
+
+**¿Cuál es la filosofía principal de Kanban?**
+
+* Los tableros son el centro de todo.
+* Mantener lo más alto el trabajo en progreso.
+* Radica en que es necesario respetar a todas las personas que trabajan en un equipo, departamento u organización. :+1:
+* Foco en el problema.
+
+**¿Qué se expresa en un tablero Kanban?**
+
+* Solo las tareas pendientes de realizar.
+* Los pasos o flujo de trabajo por el que pasarán las diferentes tareas. :+1:
+* Las tareas bloqueadas.
+* Todas las respuestas anteriores son incorrectas.
+
+**¿Qué son las clases de servicio?**
+
+* Los tipos de equipos que vamos a poder crear.
+* Los tipos de tableros kanban.
+* Los momentos en que podemos contactar con el cliente.
+* Los tipos diferentes de tareas que vamos a ser capaces de gestionar en nuestro flujo kanban. :+1:
+
+**¿Cuál es el principal valor en el que se basa Kanban?**
+
+* Respeto. :+1:
+* Excelencia técnica.
+* Iterativo e incremental.
+* Valor.
+
+**¿Cuál es la principal práctica para empezar con Kanban?**
+
+* Empieza donde estés. :+1:
+* Visualiza el trabajo no realizado.
+* Inspecciona el resultado y ajusta el flujo.
+* Gestiona el flujo de trabajo.
+
 ### Documentación
 
 [Descargar documento: MOOC_Metodologias_Agiles_M8.pdf](https://miriadax.net/documents/106951425/106968681/MOOC_Metodologias_Agiles_M8.pdf/f95f0368-8be7-401a-aec2-31d09954b264?version=1.0)
