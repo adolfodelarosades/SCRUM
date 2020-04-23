@@ -564,10 +564,97 @@ https://player.vimeo.com/video/183291212)
 
 ### M7. Test teórico
 
+A continuación, te proponemos una pequeña prueba de carácter teórico, para que puedas comprobar si has comprendido los diferentes temas tratados durante el módulo.
+
+**¿Qué es el Planning Poker?**
+
+* Es una técnica para aprender a estimar.
+* Es una técnica para hacer estimaciones en equipo, y llegar al consenso sin perder demasiado tiempo. :+1:
+* Es una técnica para desgranar elementos de la pila de producto.
+* Todas las respuestas anteriores son correctas.
+
+**¿Para qué sirven las estimaciones?**
+
+* Para meter presión a los equipos de construcción.
+* Para poder justificar los retrasos posteriores.
+* Para establecer ámbitos de magnitud y poder hacernos una idea de la complejidad de los proyectos. :+1:
+* No sirven para nada realmente.
+
+**¿En qué momento se realiza la estimación?**
+
+* En la reunión de retrospectiva.
+* En la reunión de planificación. :+1:
+* En la reunión de revisión o demo.
+* En cualquier momento del sprint.
+
+**En los enfoques ágiles, ¿cuál es el principal objetivo de las estimaciones?**
+
+* Justificar el esfuerzo y dedicación.
+* Poder dar un precio final al cliente.
+* Poder echarle la culpa a los programadores.
+* Generar conversación entre los miembros del equipo. :+1:
+
+**¿Qué enfoque de estimación prefieren las metodologías ágiles?**
+
+* Enfoques en horas y días ideales.
+* Enfoque relativo en puntos de historia. :+1:
+* En metodologías ágiles no se estima.
+* Todas las respuestas anteriores son incorrectas.
+
 ### Documentación
 
 [Descargar documento: MOOC_Metodologias_Agiles_M7.pdf](https://miriadax.net/documents/106951425/106967885/MOOC_Metodologias_Agiles_M7.pdf/480cf3f7-ac5e-4dd7-a54d-1911122d7759?version=1.0)
 
-
-
 ## Módulo 8. Kanban.
+
+Veremos una pequeña introducción al concepto de Lean para posteriormente ver que es Kanban y su aplicación práctica.
+
+### Breve historia de Kanban
+
+A continuación, vamos a ver un poco de historia de donde surge Kanban, cuáles son sus fundamentos y un poquito de contexto histórico.
+
+[![Breve historia de Kanban](https://i.vimeocdn.com/video/592483045.webp?mw=700&mh=394 "Breve historia de Kanban")](
+https://player.vimeo.com/video/183291569)
+
+### Principios y prácticas
+
+El método Kanban está basado en una serie de principios o valores, así como una serie de prácticas de uso.
+
+[![Principios y prácticas](https://i.vimeocdn.com/video/592483505.webp?mw=700&mh=394 "Principios y prácticas")](
+https://player.vimeo.com/video/183291570)
+
+### Clases de servicio
+
+Las clases de servicio nos indican los tipos diferentes de tareas que vamos a ser capaces de gestionar en nuestro tablero. Tenemos que tener presente que pueden aparecer diferentes tipos de tareas dentro de nuestro tablero. Cada uno de estos tipos de tarea tendrán generalmente una gestión diferente.
+
+[![Clases de servicio](https://i.vimeocdn.com/video/592483651.webp?mw=700&mh=394 "Clases de servicio")](
+src="https://player.vimeo.com/video/183291571")
+
+### Primeros pasos
+
+[![Clases de servicio](https://i.vimeocdn.com/video/592483833.webp?mw=700&mh=394 "Clases de servicio")](
+src="https://player.vimeo.com/video/183291572")
+
+
+### Ejemplos de uso I
+
+[![Ejemplos de uso I](https://i.vimeocdn.com/video/592483932.webp?mw=700&mh=394 "Ejemplos de uso I")](
+src="https://player.vimeo.com/video/183291574")
+
+### Ejemplos de uso II
+
+[![Ejemplos de uso II](https://i.vimeocdn.com/video/592484048.webp?mw=700&mh=394 "Ejemplos de uso II")](
+src="https://player.vimeo.com/video/183291575")
+
+### Comentarios de experto
+
+Ahora que ya sabes qué es un Kanban, escucha a los expertos cómo lo usan, y las formas más eficaces.
+
+[![Comentarios de experto](https://i.vimeocdn.com/video/592484162.webp?mw=700&mh=394 "Comentarios de experto")](
+src="https://player.vimeo.com/video/183291576")
+
+### M8. Test teórico
+
+### Documentación
+
+[Descargar documento: MOOC_Metodologias_Agiles_M8.pdf](https://miriadax.net/documents/106951425/106968681/MOOC_Metodologias_Agiles_M8.pdf/f95f0368-8be7-401a-aec2-31d09954b264?version=1.0)
